@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @pctrainor
-- 👀 I’m interested in Data Engineering and Data Science
+- 👀 I’m interested in Data Engineering and Web Development
 - 🌱 I’m currently learning about advanced data management techniques and software
 - 💞️ I’m looking to collaborate on projects that require data engineering expertise
 - 📫 How to reach me ptrainor@uark.edu or trainorp14@gmail.com
