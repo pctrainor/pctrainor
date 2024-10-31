@@ -5,7 +5,7 @@
 - 📫 How to reach me ptrainor@uark.edu or trainorp14@gmail.com
 - 💁🏻‍♂️ Pronouns: He/Him
 - 🐯 Fun fact: My golden retriever's name is Hobbes, named after Calvin and Hobbes.
-- 
+  
 https://pctrainor.github.io/my_personal_site/
 <!---
 pctrainor/pctrainor is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
