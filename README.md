@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @pctrainor
 - 👀 I’m interested in Data Engineering and Web Development
-- 🌱 I’m currently learning about advanced data management techniques and software
-- 💞️ I’m looking to collaborate on projects that require data engineering expertise
+- 📚 I’m currently learning about advanced data management techniques and software
+- 🤙 I’m looking to collaborate on projects that require data engineering expertise
 - 📫 How to reach me ptrainor@uark.edu or trainorp14@gmail.com
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I have flown a helictoper under the Golden Gate Bridge (legally)
+- 💁🏻‍♂️ Pronouns: He/Him
+- 🐯 Fun fact: My golden retriever's name is Hobbes, named after Calvin and Hobbes.
 - 
 https://pctrainor.github.io/my_personal_site/
 <!---
