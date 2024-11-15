@@ -7,6 +7,7 @@
 - 🐯 Fun fact: My golden retriever's name is Hobbes, named after Calvin and Hobbes.
   
 https://pctrainor.github.io/my_personal_site/
+https://www.youtube.com/channel/UCsCyZkBkDSZP9_uMOjcCBVA
 <!---
 pctrainor/pctrainor is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
